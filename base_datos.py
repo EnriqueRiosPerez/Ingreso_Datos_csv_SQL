@@ -40,4 +40,3 @@ def consulta(Folder, Date):
     cursor.close()
     conexion.close()
     return len(usuarios)
-    
